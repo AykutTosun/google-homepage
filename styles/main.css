@@ -1,0 +1,43 @@
+#up-elements{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #ul2{
+    position:absolute;
+        right: 0;
+    
+  }
+  li {
+    display: inline;
+  }
+  a:hover{
+      text-decoration: underline;
+  }
+
+.bottom-elements{
+   
+   font-size: 15px;
+   font-family: Arial, sans-serif;
+   
+}
+
+#left-bottom{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+#right-bottom{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+  
+  img{
+    
+    display: block;
+      padding: 180px;
+      margin: auto;
+      
+    }
