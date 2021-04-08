@@ -5,7 +5,7 @@
     list-style-type: none;
    
     position: absolute;
-   top: 0%;
+   top: 1%;
    left: 0;
    font-size: 15px;
    font-family: Arial, sans-serif;
@@ -16,8 +16,10 @@
    
    line-height: 35px;
    min-width: 100%;
-   
+  }
+  .up-elements:hover{
 
+      color-adjust: #707070;
   }
   a{
     text-decoration: none;
@@ -36,9 +38,10 @@
 
   #right-top{
     position:absolute;
-        right: 0;
+        right: 0%;
        
   }
+ 
   li {
     display: inline;
   }
@@ -152,10 +155,84 @@
         outline: none;
     }
 #A{
-  color: #707070;
+  
 }
 
+
 .Sign-in{
-  background-color: rgb(86, 86, 218);
-  size: 20px;
+  background-color: #1a73e8;
+  width: 100px;
+  height: 30px;
+  font-family: Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  display: inline-block;
+  border: transparent;
+  border-radius: 4px;
+  right: 4%;
+  position: relative;
+  top: 5%;
+}
+#images{
+  position: relative;
+  right: 15%;
+  top: 5%;
+}
+#material-icon{
+position: relative;
+right: 10%;
+color: #707070 ;
+}
+#material-icon:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#gmail{
+position: relative;
+right: 20%;
+top: 5%;
+}
+
+#about{
+position: relative;
+left: 10%;
+top: 5%;
+}
+#store{
+position: relative;
+left: 19%;
+top: 5%;
+}
+
+#advertising{
+  color: #707070;
+  position: relative;
+  left: 5%;
+}
+#HSW{
+  color: #707070;
+  position: relative;
+  left: 15%;
+}
+#business{
+  color: #707070;
+  position: relative;
+  left: 10%;
+}
+#privacy{
+  color: #707070;
+  position: relative;
+  right: 15%;
+}
+#terms{
+  color: #707070;
+  position: relative;
+  right: 10%;
+}
+#settings{
+  color: #707070;
+  position: relative;
+  right: 5%;
 }
