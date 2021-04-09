@@ -87,18 +87,20 @@ main{
   img{
     
     display: block;
-      padding: 180px;
+      
       margin: auto;
       height: auto;
       width: auto;
-      position: relative;
-      top: -40px;
+      position: absolute;
+      top: 23%;
+      left: 40%;
+
       
     }
 .buttons{
   position: absolute;
-  top: 340px;
-  left: 32%;
+  top: 45%;
+  left: 39%;
 }
     .button{
         background-color: #f5f5f5;
@@ -110,8 +112,8 @@ main{
         border-radius:4px;
         outline:none;
         position:relative;
-        left: 42%;
-        top: 37%;
+        left: auto;
+        top: auto;
         
         
     }
@@ -125,13 +127,15 @@ main{
       
     .search{
         position: absolute;
-        top: 33%;
-        left: 37%;
+        top: 37%;
+        left: 34%;
         border-radius: 30px;
         height: 30px;
         font-size: 10px;
-        width: 27%;
+        width: 550px;
         border: 1px solid #dfe1e5;
+        margin: auto;
+        padding: 0.2%;
         
         
     
@@ -155,7 +159,7 @@ main{
         height: 12px;
         width: 400px;
        position: relative;
-       top: -5px;
+       top: -5%;
         left: 2%;
         border: none;
         margin-left: auto;
