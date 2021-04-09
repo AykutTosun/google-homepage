@@ -86,7 +86,7 @@
       height: auto;
       width: auto;
       position: relative;
-      top: 0px;
+      top: -20px;
       
     }
 .buttons{
@@ -149,7 +149,7 @@
         height: 12px;
         width: 450px;
        position: relative;
-       top: 10%;
+       top: -4px;
         left: 0%;
         border: none;
         
