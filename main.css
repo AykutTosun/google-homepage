@@ -91,7 +91,7 @@
     }
 .buttons{
   position: absolute;
-  top: 380px;
+  top: 340px;
   left: 34%;
 }
     .button{
@@ -149,7 +149,7 @@
         height: 12px;
         width: 450px;
        position: relative;
-       top: -4px;
+       top: -8px;
         left: 0%;
         border: none;
         
